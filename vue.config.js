@@ -1,7 +1,7 @@
 
 module.exports = {
   outputDir: 'docs',
-  baseUrl: '/crash_analysis',
+  baseUrl: '/HashCheck',
   productionSourceMap: false,
   configureWebpack:  {
     output: {
